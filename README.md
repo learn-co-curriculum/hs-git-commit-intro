@@ -1,17 +1,16 @@
 ---
-tags: git, intro, kids
+tags: git, intro, kids, github
 languages: git
 type: intro
 ---
 
-##Git with Github
+### Students Will Be Able To...
++ **Add, commit and push files** to a repository that already exists on GitHub
++ Explain what **version control** is and its relationship to GitHub
++ Explain the **difference between Git and Github**
 
-So far we've learned how to take code from Github and put it on our computers. But one of the best parts of Github is that it allows us to store our code and is a version control system. Imagine if you spilled water all over your laptop and it was forever broken and you couldn't retrieve any work from it. You would lose all of your work from the last month of coding. THAT WOULD BE DEVASTATING.
+---
+### Git with Github
 
-So how in the world do you put code on Github?
+<img src="https://after-school-assets.s3.amazonaws.com/github.png" width="200px" align="right" hspace="10"> So far you've learned how to take code from GitHub and put it on your computer. But one of the best parts of GitHub is that it allows you to store your code up on the cloud via the GitHub web application. Imagine if you spilled water all over your laptop and it was forever broken and you couldn't retrieve any data from it. You would lose all of your work from the last month of coding. But if you had put your code up on GitHub, you'd be able to recover the data you had lost. Thanks, GitHub!
 
-By the end of this lesson, you will be able to 
-
-* Add, commit and push files to a repository that already exists on Github.
-* Explain what version control is and it's relationship to Github.
-* Explain the difference between Git and Github
