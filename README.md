@@ -1,8 +1,4 @@
----
-tags: git, intro, kids, github
-languages: git
-type: intro
----
+
 
 ### Students Will Be Able To...
 + **Add, commit and push files** to a repository that already exists on GitHub
