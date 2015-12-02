@@ -10,3 +10,5 @@
 
 <img src="https://after-school-assets.s3.amazonaws.com/github.png" width="200px" align="right" hspace="10"> So far you've learned how to take code from GitHub and put it on your computer. But one of the best parts of GitHub is that it allows you to store your code up on the cloud via the GitHub web application. Imagine if you spilled water all over your laptop and it was forever broken and you couldn't retrieve any data from it. You would lose all of your work from the last month of coding. But if you had put your code up on GitHub, you'd be able to recover the data you had lost. Thanks, GitHub!
 
+
+<a href='https://learn.co/lessons/hs-git-commit-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
